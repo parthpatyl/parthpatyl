@@ -47,6 +47,6 @@ Please note that I appreciate your contributions, but I may not be able to merge
 
 If you have any questions or inquiries about the projects or my work, feel free to reach out to me. You can contact me via the following methods:
 
-- Email: [your-email@example.com](mailto:parthpatyl@gmail.com)
+- Email: [your-email@example.com](parthpatyl@gmail.com)
 
 Thank you for visiting my portfolio repository, and I hope you find my work interesting and valuable!
