@@ -11,6 +11,8 @@ The repository is organized into different directories based on the type of proj
 
 - **[Project 2](./project2/)**: My portfolio website
 
+- **[Project 3](./project3/)**: Password Generator
+
 Feel free to navigate through the directories, explore the projects, and delve into the individual project repositories for more detailed information.
 
 ## Installation and Usage
