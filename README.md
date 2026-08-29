@@ -1,54 +1,91 @@
-# myreppo
-# Portfolio Repository
+<div align="center">
 
-Welcome to my portfolio repository! This repository serves as a collection of my work and showcases my skills, projects, and achievements. Here you will find a diverse range of projects that demonstrate my abilities and experience in various fields.
+# Parth Patil
 
-## Structure
+**Aerospace Engineering Graduate · Software & AI/ML Engineer**
 
-The repository is organized into different directories based on the type of projects and their respective categories. Each directory contains a specific project or a collection of related projects. Here's a brief overview of the directory structure:
+  <p>
+    <em>Applying first-principles engineering to scalable software systems, backend architecture, and applied machine learning.</em>
+  </p>
 
-- **[Project 1](./project1/)**: Project 1 is Simple Calculator.
+  <p>
+    <a href="https://github.com/parthpatyl">
+      <img src="https://komarev.com/ghpvc/?username=parthpatyl&label=Profile%20Views&color=444444&style=flat-square" alt="Profile Views" />
+    </a>
+  </p>
 
-- **[Project 2](./project2/)**: My portfolio website
+---
 
-- **[Project 3](./project3/)**: Password Generator
+### About & Philosophy
 
-Feel free to navigate through the directories, explore the projects, and delve into the individual project repositories for more detailed information.
+  <p>
+    With a background in <strong>Aerospace Engineering</strong>, I approach software through the lens of complex systems, reliability, and modular architecture. I focus on building end-to-end applications with resilient backend pipelines, clean data modeling, intuitive interfaces, and practical AI integrations.
+  </p>
 
-## Installation and Usage
+---
 
-To view and interact with the projects, follow the steps below:
+### Technical Capabilities
 
-1. Clone the repository to your local machine using the following command:
-   ```
-   git clone https://github.com/your-username/portfolio.git
-   ```
+  <p>
+    <strong>Languages & Core</strong><br />
+    <img src="https://api.iconify.design/simple-icons/python.svg?color=%23aaaaaa" width="14" height="14" /> <code>Python</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%23aaaaaa" width="14" height="14" /> <code>TypeScript</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/javascript.svg?color=%23aaaaaa" width="14" height="14" /> <code>JavaScript</code> &nbsp;
+    <img src="https://api.iconify.design/lucide/database.svg?color=%23aaaaaa" width="14" height="14" /> <code>SQL</code> &nbsp;
+    <img src="https://api.iconify.design/lucide/webhook.svg?color=%23aaaaaa" width="14" height="14" /> <code>REST APIs</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/jsonwebtokens.svg?color=%23aaaaaa" width="14" height="14" /> <code>JWT Auth</code>
+  </p>
 
-2. Once cloned, navigate to the specific project directory of interest:
-   ```
-   cd project1
-   ```
+  <p>
+    <strong>Backend & Data</strong><br />
+    <img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%23aaaaaa" width="14" height="14" /> <code>Node.js</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/express.svg?color=%23aaaaaa" width="14" height="14" /> <code>Express</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%23aaaaaa" width="14" height="14" /> <code>PostgreSQL</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%23aaaaaa" width="14" height="14" /> <code>MongoDB</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/redis.svg?color=%23aaaaaa" width="14" height="14" /> <code>Redis</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/sqlite.svg?color=%23aaaaaa" width="14" height="14" /> <code>SQLite</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/prisma.svg?color=%23aaaaaa" width="14" height="14" /> <code>Prisma ORM</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/supabase.svg?color=%23aaaaaa" width="14" height="14" /> <code>Supabase</code>
+  </p>
 
-3. Follow the instructions provided in the project's README file to set up and run the project.
+  <p>
+    <strong>Frontend & UI</strong><br />
+    <img src="https://api.iconify.design/simple-icons/react.svg?color=%23aaaaaa" width="14" height="14" /> <code>React</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/vite.svg?color=%23aaaaaa" width="14" height="14" /> <code>Vite</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%23aaaaaa" width="14" height="14" /> <code>Tailwind CSS</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/tauri.svg?color=%23aaaaaa" width="14" height="14" /> <code>Tauri</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/figma.svg?color=%23aaaaaa" width="14" height="14" /> <code>Figma</code>
+  </p>
 
-## Contributions
+  <p>
+    <strong>Machine Learning</strong><br />
+    <img src="https://api.iconify.design/simple-icons/pytorch.svg?color=%23aaaaaa" width="14" height="14" /> <code>PyTorch</code> &nbsp;
+    <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23aaaaaa" width="14" height="14" /> <code>Applied AI/ML</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/numpy.svg?color=%23aaaaaa" width="14" height="14" /> <code>NumPy</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/pandas.svg?color=%23aaaaaa" width="14" height="14" /> <code>Pandas</code>
+  </p>
 
-While this repository primarily showcases my personal projects, I'm open to collaboration and constructive feedback. If you have any suggestions, improvements, or ideas, please feel free to reach out to me through the contact information provided in my portfolio.
+  <p>
+    <strong>DevOps & Tooling</strong><br />
+    <img src="https://api.iconify.design/simple-icons/docker.svg?color=%23aaaaaa" width="14" height="14" /> <code>Docker</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/git.svg?color=%23aaaaaa" width="14" height="14" /> <code>Git</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/vercel.svg?color=%23aaaaaa" width="14" height="14" /> <code>Vercel</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/render.svg?color=%23aaaaaa" width="14" height="14" /> <code>Render</code> &nbsp;
+    <img src="https://api.iconify.design/simple-icons/linux.svg?color=%23aaaaaa" width="14" height="14" /> <code>Linux/Bash</code>
+  </p>
 
-If you'd like to contribute to any of the projects within this repository, please follow the standard GitHub workflow:
+---
 
-1. Fork the repository.
-2. Create a new branch for your contribution.
-3. Make the necessary changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request, detailing the specific changes you've made.
+### Current Focus
 
-Please note that I appreciate your contributions, but I may not be able to merge all pull requests.
+  <p>
+    Engineering scalable full-stack web platforms and backend services.<br />
+    Researching and integrating applied AI models and agentic workflows.<br />
+    Designing performant, accessible user interfaces and developer tools.
+  </p>
 
-## Contact
+---
 
-If you have any questions or inquiries about the projects or my work, feel free to reach out to me. You can contact me via the following methods:
+<sub><a href="https://github.com/parthpatyl">github.com/parthpatyl</a></sub>
 
-- Email: [parthpatyl@gmail.com]
-
-Thank you for visiting my portfolio repository, and I hope you find my work interesting and valuable!
+</div>
